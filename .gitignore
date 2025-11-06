@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+notebooks/
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment
+.env
