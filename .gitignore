@@ -1,5 +1,6 @@
 # Notebooks - exclude from git
 notebooks/
+DEPLOYMENT_GUIDE.md
 
 # PDFs - exclude from git
 *.pdf
