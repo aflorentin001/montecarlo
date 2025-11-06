@@ -1,6 +1,10 @@
 # Notebooks - exclude from git
 notebooks/
 
+# PDFs - exclude from git
+*.pdf
+executive_summary.pdf
+
 # Node modules
 node_modules/
 app/node_modules/
